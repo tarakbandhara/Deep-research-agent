@@ -16,9 +16,6 @@ Research a topic, let the agent plan the investigation, search the web, synthesi
 - 📊 Live research progress indicator
 - ● Animated active-stage indicator while research is running
 - ⚠️ Clear rate-limit and error handling
-- 💬 Clean Chainlit conversational interface
-- 🌙 Dark research-focused UI
-- 🖼️ Custom application branding and favicon
 - 🚀 Starter prompt for quick research
 
 ---
