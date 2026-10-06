@@ -13,7 +13,7 @@ bidict==0.24.1
 brotli==1.2.0
 certifi==2026.7.22
 cffi==2.1.1
-chainlit==2.12.0
+chainlit==2.11.0
 charset-normalizer==3.5.1
 chevron==0.14.0
 click==8.5.0
