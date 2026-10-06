@@ -18,13 +18,6 @@ Research a topic, let the agent plan the investigation, search the web, synthesi
 - ⚠️ Clear rate-limit and error handling
 - 🚀 Starter prompt for quick research
 
----
-
-## 🎥 Demo Video
-
-Watch the Research Agent in action:
-
-<video src="demo/demo.mp4" controls width="100%"></video>
 
 ---
 
