@@ -8,7 +8,7 @@ from serpapi_search_tools import web_search
 
 load_dotenv(override = True)
 or_base_url = os.getenv('open_router_base_url')
-or_api_key = os.getenv('openrouter_api_key_two')
+or_api_key = os.getenv('openrouter_api_key')
 Model_Name = "nvidia/nemotron-3.5-lightning:free"
 
 or_client = AsyncOpenAI(base_url=or_base_url, api_key=or_api_key)
