@@ -20,6 +20,14 @@ Research a topic, let the agent plan the investigation, search the web, synthesi
 
 ---
 
+## 🎥 Demo Video
+
+Watch the Research Agent in action:
+
+<video src="demo/demo.mp4" controls width="100%"></video>
+
+---
+
 ## 🚀 Live Demo
 
 The Research Agent is deployed and available to try online.
@@ -106,8 +114,7 @@ During research, the interface displays the active stage:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/tarakbandhara/Deep-research-agent
 ```
 
 ### 2. Create a virtual environment
@@ -145,7 +152,7 @@ Create a `.env` file in the project root and add your API credentials:
 open_router_base_url=YOUR_OPENROUTER_BASE_URL
 openrouter_api_key=YOUR_OPENROUTER_API_KEY
 serpapi_api_key=YOUR_SERPAPI_API_KEY
-gemini_api_key=YOUR_GOOGLE_API_KEY'
+gemini_api_key=YOUR_GOOGLE_API_KEY
 ```
 
 ---
