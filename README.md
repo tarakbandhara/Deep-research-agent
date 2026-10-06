@@ -20,6 +20,22 @@ Research a topic, let the agent plan the investigation, search the web, synthesi
 
 ---
 
+## 🚀 Live Demo
+
+The Research Agent is deployed and available to try online.
+
+👉 **Try the Research Agent:** https://research.tarakbandhara.in
+
+The deployed application runs the complete research workflow, including planning, web search, AI-powered research synthesis, and final report generation.
+
+> **⚠️ API & Model Rate Limits**
+>
+> The live demo uses third-party AI models and APIs that are subject to usage and rate limits. Depending on current usage, you may occasionally see a rate-limit error or the research workflow may be temporarily unavailable.
+>
+> If you encounter a rate-limit message, please try again later.
+
+---
+
 ## 🧠 How It Works
 
 The application follows a multi-stage research pipeline:
